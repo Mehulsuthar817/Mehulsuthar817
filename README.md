@@ -51,7 +51,7 @@
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehulsuthar817&theme=radical&hide_border=true" alt="Mehul's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehulsuthar817&theme=merko&hide_border=true" alt="Mehul's Contribution Graph" />
 </div>
 
 ---
