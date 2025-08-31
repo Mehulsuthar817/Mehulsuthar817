@@ -60,7 +60,6 @@
 
 * **[Simon Game](https://github.com/Mehulsuthar817/simon-game)** - A classic memory game reimagined with interactive web technologies.
 * **[Weather Dashboard](https://github.com/Mehulsuthar817/Weather-Forecast )** - Get real-time weather updates for any city with a sleek UI.
-* **[Library Management System](https://github.com/Mehulsuthar817/library-management-system)** - An efficient system for managing books and users in a library.
 
 ---
 
