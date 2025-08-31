@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Mehulsuthar817">
-    <img src="https://image.pollinations.ai/prompt/Design%20a%20high-resolution%20horizontal%20banner%20(aspect%20ratio%203:1)%20for%20a%20GitHub%20profile.%0A%0ATheme:%20futuristic%20+%20digital%20cloud%20vibes%20(since%20%22Mehul%22%20means%20cloud%20in%20Hindi).%0A%0ABackground:%20a%20blend%20of%20glowing%20neon%20blue%20and%20purple%20abstract%20clouds,%20flowing%20binary%20code%20streams,%20and%20circuit-like%20patterns%20merging%20into%20a%20cosmic%20tech%20sky.%0A%0ACenterpiece%20Text:%20%22Mehul%22%20in%20bold,%20sleek,%20futuristic%20font%20with%20a%20glowing%20aura.%0A%0ASubtext%20(slightly%20smaller,%20under%20the%20name):%20%22Dreamer%20•%20Coder%20•%20Builder%22.%0A%0AStyle:%20modern,%20sharp,%20and%20professional%20%E2%80%94%20perfect%20as%20a%20GitHub%20README%20header.%0A%0AAdd%20subtle%20digital%20particles%20and%20light%20streaks%20to%20make%20it%20feel%20alive.%0A%0AOutput:%20ultra-wide,%20sharp,%20horizontal%20(banner%20style),%20not%20square.%0A%0A--ar%203:1%20--v%205%20--q%202" alt="Mehul's GitHub Banner">
+    <img src="./Gemini_Generated_Image_h3ko1mh3ko1mh3ko (1).png">
   </a>
 </div>
 
