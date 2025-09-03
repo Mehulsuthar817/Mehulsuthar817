@@ -43,7 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mehulsuthar817&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Mehul's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehulsuthar817&layout=compact&theme=dark&hide_border=true" alt="Mehul's Most Used Languages" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehulsuthar817&theme=dark&hide_border=true" alt="Mehul's GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Mehulsuthar817&theme=dark&hide_border=true" alt="Mehul's GitHub Streak" />
 </div>
 
 ---
