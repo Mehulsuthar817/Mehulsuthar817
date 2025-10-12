@@ -31,7 +31,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,php,bootstrap,git,postman,mysql,mongodb,express,react,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,bootstrap,git,postman,mongodb,express,react,nodejs&theme=dark" />
 </p>
 
 
