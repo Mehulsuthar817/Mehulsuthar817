@@ -112,3 +112,11 @@ I build **full-stack web applications** with a strong focus on backend systems, 
 <div align="center">
   <h3>Building systems, not just projects.</h3>
 </div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mehulsuthar817/Mehulsuthar817/output/github-contribution-grid-snake-dark.svg" />
+</div>
