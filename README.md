@@ -69,14 +69,6 @@ I build **full-stack web applications** with a strong focus on backend systems, 
 
 👉 https://github.com/Mehulsuthar817/notes-MERN  
 
----
-
-### 🏆 Achievements & Activity
-
-<div align="center">
-  <!-- Trophy Board -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Mehulsuthar817&theme=darkhub&no-frame=true&row=1&column=6" />
-</div>
 
 ---
 
