@@ -5,7 +5,6 @@
 </div>
 
 <div align="center">
-  <h1>Mehul Suthar</h1>
   <h3>MERN Stack Developer | Backend-Focused | Problem Solver</h3>
 
   <!-- Typing Animation -->
